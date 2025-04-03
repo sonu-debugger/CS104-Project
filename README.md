@@ -1,5 +1,3 @@
-# Haar-CB
-
 project doc: https://docs.google.com/document/d/1akIRM4dK1tojB6jLjY5TpwfSOaTsidgzPeJmpdVFT3A/edit?tab=t.0
 
 report link: https://www.overleaf.com/3424889188jgydsjksrmkx#a1baf6
@@ -8,12 +6,18 @@ part 1: setup page
 
 pending stuff: some css stuff, write javascript functions for buttons
 
-part 2: 
+part 2: live page
+
+pending stuff: some css stuff,  write javascript functions for buttons, add page navigation
+
+part 3:
+
+part 4:
 
 
-# Project Title
+# Extra Innings 2.0
 
-Simple overview of use/purpose.
+Relive your childhood memories when Sony TV used to stream cricket and all highlights were available on YouTube.
 
 ## Description
 
