@@ -10,9 +10,17 @@ part 2: live page
 
 pending stuff: some css stuff,  write javascript functions for buttons, add page navigation
 
-part 3:
+part 3: scorecard page
 
-part 4:
+pending stuff: lots of css stuff, writr jaavscript functions for eveyrting
+
+part 4: sumary page
+
+pending stuff: css and js functions, player game changers summary
+
+index.html:
+
+pending stuff: routing to all pages
 
 
 # Extra Innings 2.0
