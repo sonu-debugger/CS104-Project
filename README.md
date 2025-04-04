@@ -61,8 +61,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+[Sonusree Banothu](mailto:23b0962@iitb.ac.in)
 
 ## Version History
 
@@ -70,7 +69,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
     * Various bug fixes and optimizations
     * See [commit change]() or See [release history]()
 * 0.1
-    * Initial Release
+    * Initial Concept
 
 ## License
 
