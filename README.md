@@ -4,7 +4,7 @@ report link: https://www.overleaf.com/3424889188jgydsjksrmkx#a1baf6
 
 part 1: setup page
 
-pending stuff: some css stuff, write javascript functions for buttons
+pending stuff: some css stuff, js for toss and number of overs
 
 part 2: live page
 
@@ -20,7 +20,6 @@ pending stuff: css and js functions, player game changers summary
 
 index.html:
 
-pending stuff: routing to all pages
 
 
 # Extra Innings 2.0
